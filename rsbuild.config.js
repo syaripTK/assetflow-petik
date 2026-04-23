@@ -12,7 +12,7 @@ export default defineConfig({
     title: 'Assetflow',
     favicon: './src/assets/bg.jpeg',
     meta: {
-      description: 'Aplikasi reservasi aset perusahaan',
+      description: 'Aplikasi manajemen aset berbasis web untuk mempermudah pengelolaan inventaris perusahaan',
       viewport: 'width=device-width, initial-scale=1.0',
     },
     tags: [
