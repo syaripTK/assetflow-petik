@@ -15,5 +15,15 @@ export default defineConfig({
       description: 'Aplikasi reservasi aset perusahaan',
       viewport: 'width=device-width, initial-scale=1.0',
     },
+    tags: [
+      {
+        tag: 'meta',
+        attrs: {
+          name: 'google-site-verification',
+          content: 'zsTVw922RRsKGokL1HKQCSgR9qUNBHYBEIykujPI95M'
+        },
+        injectTo: 'head'
+      }
+    ]
   },
 });
